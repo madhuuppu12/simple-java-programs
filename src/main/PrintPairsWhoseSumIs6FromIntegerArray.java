@@ -1,4 +1,4 @@
-package main;
+package apps;
 
 public class PrintPairsWhoseSumIs6FromIntegerArray {
 	

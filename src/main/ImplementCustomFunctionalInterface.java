@@ -1,4 +1,4 @@
-package main;
+package apps;
 
 public class ImplementCustomFunctionalInterface {
 	public static void main(String args[]) {

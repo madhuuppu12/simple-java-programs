@@ -1,4 +1,4 @@
-package main;
+package apps;
 
 @FunctionalInterface
 interface CustomFunctionalInterface {
