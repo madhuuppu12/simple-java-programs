@@ -1,4 +1,4 @@
-package apps;
+package main.java;
 
 class MyThread extends Thread {
 
